@@ -1,6 +1,6 @@
 # RoboKinematics
 
-#### Video Demo: <url "youtu.be/GHFFKyi5DwY?si=vJbCZmRVGCNZZWNS"/>
+#### Video Demo: [Watch the demo on YouTube](https://youtu.be/GHFFKyi5DwY?si=vJbCZmRVGCNZZWNS)
 
 #### Description:
 
